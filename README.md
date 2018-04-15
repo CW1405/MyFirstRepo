@@ -1,2 +1,3 @@
 # MyFirstRepo
-KC WIT CandC 
+KC WIT CandC
+This is a new sentence
